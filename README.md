@@ -22,4 +22,4 @@ Seus Pull Requests feitos aqui **não contam** para o progresso do Hacktober.
 - Adicione ao arquivo `_data/chamada.yml` suas informações, seguindo a lógica dada. Se não tiver foto, não coloque a linha de imagem.
 - Faça um pull request do seu repositório para este.
 
-## Veja aqui o resultado: https://cidamo.com.br/hacktoberfest2020-chamada/
+## Veja aqui o resultado: http://cidamo.com.br/hacktoberfest2020-chamada/
